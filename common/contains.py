@@ -10,7 +10,7 @@ conf_file=os.path.join(conf_name,"config.conf")
 conf_global=os.path.join(conf_name,'global.conf')
 conf_test=os.path.join(conf_name,'test.conf')
 conf_test2=os.path.join(conf_name,'test2.conf')
-log_name=os.path.join(dirn_name,'logs/python18.log')
+log_name=os.path.join(dirn_name,'logsfir/python18.log')
 
 
 
