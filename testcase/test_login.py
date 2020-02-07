@@ -9,7 +9,7 @@ import logging
 import logging.handlers
 from common import loggers
 logger= loggers.get_log('login')  #注意模块调用模块中的方法，模块也可调用模块中的常量或类
-logger.debug('获取日志类')
+logger.debug('1')
 @ddt
 class LoginTest(unittest.TestCase):
                 do_excel = DoExcel(contains.data_path, 'login')
