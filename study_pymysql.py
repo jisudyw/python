@@ -2,6 +2,7 @@ import pymysql
 host='test.lemonban.com'
 user="test"
 password="test"
+#test11111111111
 #先自行安装这个模块  pip install pymysql
 #1、建立连接
 mysql=pymysql.connect(host,user, password, port=3306)
